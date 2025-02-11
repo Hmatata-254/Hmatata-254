@@ -1,19 +1,32 @@
-# Hussein's Portfolio 🚀
+# Hussein Matata 🚀  
+## Software Developer | Android | Backend | API Integrations  
 
-Welcome to my GitHub! I'm a **software developer** passionate about **Android development, backend systems, and API integrations**. This repository showcases my projects, skills, and contributions.
-
-## 🔹 About Me  
-- 📱 **Android Developer** (Java, Firebase, Retrofit)  
-- ⚙️ **Backend Development** (Spring Boot, MySQL, REST APIs)  
-- 🔍 Currently exploring **API integrations & scalable backend systems**  
-
-## 🔹 Projects  
-- **[Employee Management System](https://github.com/yourusername/EmployeeAPI-SpringBoot)** – Spring Boot API & Android app for employee data management.  
-- **[PicNote](https://github.com/yourusername/PicNote)** – Photo journal app with Firebase authentication.  
-
-## 🔹 Let's Connect  
-📧 **Email:** husseinmatata591@gmail.com  
-🔗 **LinkedIn:** [)  
+Welcome to my GitHub! I am a **software developer** passionate about building **scalable mobile applications, robust backend systems, and seamless API integrations**. I specialize in **Android development (Java, Firebase, Retrofit)** and **backend development (Spring Boot, MySQL, REST APIs)**.
 
 ---
-🚀 *Passionate about building real-world solutions through mobile & backend development.*  
+
+## 🔹 Featured Projects  
+
+### **📱 Android Applications**  
+- **[Check-In App](https://github.com/Hmatata-254/CheckInApp)** – A seamless check-in management app with Firebase authentication.  
+- **[PicNote App](https://github.com/Hmatata-254/PicNoteApp)** – A photo journal application for managing personal memories with Firebase integration.  
+- **[Employee Management App](https://github.com/Hmatata-254/EmployeeApp-Android)** – An employee data management app integrated with a Spring Boot backend.  
+
+### **⚙️ Backend & API Development**  
+- **[Employee Management API](https://github.com/Hmatata-254/EmployeeAPI-SpringBoot)** – A RESTful API built with **Spring Boot & MySQL** to manage employee data, supporting CRUD operations and integration with an Android client.  
+
+---
+
+## 🔹 Technical Skills  
+- **Mobile Development**: Java, Android Studio, Firebase, Retrofit  
+- **Backend Development**: Spring Boot, MySQL, RESTful APIs  
+- **API Integrations**: MPESA API, Firebase Firestore, Authentication  
+
+---
+
+## 🔹 Connect With Me  
+📧 **Email**: husseinmatata591@example.com  
+🔗 **LinkedIn**: [Hussein Matata](https://www.linkedin.com/in/hussein-matata-1259b1307/)  
+💻 **GitHub**: [Hmatata-254](https://github.com/Hmatata-254)  
+
+🚀 *Passionate about building efficient and scalable software solutions.*  
