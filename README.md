@@ -1,23 +1,19 @@
-# **Hi, I'm Hussein – A Passionate Software Developer**
+# Hussein's Portfolio 🚀
 
-Welcome to my GitHub! I'm a software developer focused on building intuitive and efficient mobile applications, with expertise in **Android development**, **Firebase integration**, and **cloud-based solutions**. I’m always learning and striving to improve my skills, with a keen interest in **data structures**, **algorithms**, and **back-end development**.
+Welcome to my GitHub! I'm a **software developer** passionate about **Android development, backend systems, and API integrations**. This repository showcases my projects, skills, and contributions.
 
-## **Skills & Technologies**
-- **Mobile Development**: Android, Java, Firebase
-- **Cloud & Backend**: Firebase Realtime Database, Firebase Storage, Firebase Authentication
-- **UI/UX Design**: Creating user-friendly interfaces with a focus on usability
-- **Version Control**: Git, GitHub, GitLab
-- **Current Learning**: Data Structures & Algorithms, Back-end development, Flutter
+## 🔹 About Me  
+- 📱 **Android Developer** (Java, Firebase, Retrofit)  
+- ⚙️ **Backend Development** (Spring Boot, MySQL, REST APIs)  
+- 🔍 Currently exploring **API integrations & scalable backend systems**  
 
-## **Notable Projects**
-### **PicNote - Personal Photo Journal App**
-Developed an Android app to help users create and manage personal photo journals. The app allows users to save photos, assign topics, and add descriptions, all synced with **Firebase** in real-time. Features include secure user authentication, photo uploads, and dynamic content management with **RecyclerView**.
+## 🔹 Projects  
+- **[Employee Management System](https://github.com/yourusername/EmployeeAPI-SpringBoot)** – Spring Boot API & Android app for employee data management.  
+- **[PicNote](https://github.com/yourusername/PicNote)** – Photo journal app with Firebase authentication.  
 
-### **CheckIn - Room Booking App**
-Created a mobile app for hotel room booking, complaint tracking, and real-time updates. The app supports room availability management, complaint logging with photo uploads, and secure user authentication through **Firebase**.
+## 🔹 Let's Connect  
+📧 **Email:** husseinmatata591@gmail.com  
+🔗 **LinkedIn:** [)  
 
-## **My Goals**
-I'm focused on improving my skills and tackling real-world problems. I'm passionate about creating efficient and scalable apps, contributing to open-source projects, and growing into a well-rounded mobile and back-end developer.
-
-Feel free to explore my repositories, and feel free to connect with me for collaborations or opportunities!
-
+---
+🚀 *Passionate about building real-world solutions through mobile & backend development.*  
